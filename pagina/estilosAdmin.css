@@ -1,0 +1,46 @@
+article{
+	float: left;
+	margin-right: 20px;
+	background-color: #CBCBCB;
+	text-align: center;
+	height: 570px;
+	padding: 15px;
+}
+
+article ul{
+	list-style: none;
+	text-align: justify;
+	height: 400px;
+	padding: 10px;
+	overflow: scroll;
+}
+
+article li{
+	background-color: white;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+#venta{
+	width: 600px;
+}
+
+#botonElimVenta{
+	width: inherit;
+}
+
+.selec{
+	text-align: justify;
+}
+
+.casa{
+	font-weight: bold;
+}
+
+#usuarios{
+	width: 300px;
+}
+
+#vendedores{
+	width: 300px;
+}
